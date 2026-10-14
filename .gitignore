@@ -1,0 +1,7 @@
+# данные учебного кейса не публикуются
+*.csv
+
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+.venv/
